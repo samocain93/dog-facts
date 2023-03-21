@@ -3,6 +3,7 @@ body {
   padding: 0;
   font-family: 'Righteous', sans-serif;
   background: white;
+  height: 100vh
 }
 
 .btn {
